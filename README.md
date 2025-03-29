@@ -209,13 +209,13 @@ Test-Automation-500108301/
 
 ### Test Report
 
-![Test Report 1](docs/test-report1.png)
-![Test Report 2](docs/test-report2.png)
+![Test Report 1](test-report1.png)
+![Test Report 2](test-report2.png)
 
 
 ### GitHub Actions Artifacts
 
-![GitHub Actions Artifacts](docs/artifacts.png)
+
 
 The GitHub Actions workflow generates and stores:
 
